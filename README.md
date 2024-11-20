@@ -1,7 +1,7 @@
 # SIH-Workshop
 
 ## 1. First Slide
-![Screenshot 2024-10-19 211458](https://github.com/user-attachments/assets/d6459734-784b-4238-b88b-c95599ea721e)
+![3-Figure1-1](https://github.com/user-attachments/assets/97c3d918-72df-46e5-94c3-a0593f00bcd2)
 
 ## 2. Second Slide
   ![Screenshot 2024-10-19 211504](https://github.com/user-attachments/assets/d66ae4f2-7a6e-4528-87c7-4c8f22301bcb)
@@ -17,4 +17,3 @@
 
 ## 6. Sixth Slide
   ![Screenshot 2024-10-19 211529](https://github.com/user-attachments/assets/c24d08a5-c4b4-401a-b5b5-dcfdf02d617a)
-
